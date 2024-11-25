@@ -66,7 +66,7 @@ environment.
 - Working on a project with backend microservices using fastAPI, Docker, PostgreSQL, MongoDB,RabbitMQ, Redis, Kubernetes
 ---
 
-## 🙌 **Beyond Work**
+## 🙌 **Beyond Coding**
 I enjoy playing football, yoga & meditation, being with nature, hiking, playing guitar, singing
 
 ---
