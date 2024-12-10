@@ -73,4 +73,3 @@ I enjoy playing football, yoga & meditation, being with nature, hiking, playing 
 
 📫 **Let's Connect!**
 - [LinkedIn](https://www.linkedin.com/in/prabin-tamang-nepal)
-- tamangbin11@gmail.com
