@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 💻 Backend Developer | AI Enthusiast
 
-Hi there! 👋 I am a passionate **Backend Developer** with over **1.5 years of experience** in desigining, developing,testing, deploying and maintaining backend services leveraging Python, Django, PHP, Laravel, PostgreSQL, MySQL, MongoDB, Docker, and Linux. I have also dabbled in frontend development to understand how things work. My journey into the tech world is now steering towards **AI Engineering**, combining my love for problem-solving with cutting-edge technologies.
+Hi there! 👋 I am a passionate **Backend Developer** with over **2 years of experience** in desigining, developing,testing, deploying and maintaining backend services leveraging Python, Django, PHP, Laravel, PostgreSQL, MySQL, MongoDB, Docker, and Linux. I have also dabbled in frontend development to understand how things work. My journey into the tech world is now steering towards **AI Engineering**, combining my love for problem-solving with cutting-edge technologies.
 
 ---
 
